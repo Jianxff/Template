@@ -1,0 +1,2 @@
+# Template
+CMake Project Template.
